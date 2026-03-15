@@ -31,5 +31,5 @@ I am a **Systems Information Engineering student** passionate about software dev
 
 > Developed a **Full-Stack Application** designed for high-performance event ticket sales. 
 
-> - [View Repository](https://github.com/valenpeppi/FrontEnd-Venta-de-Entradas.git) | [View Repository](https://github.com/valenpeppi/BackEnd-Venta-de-Entradas.git)
+> - [TicketApp - BackEnd](https://github.com/gianzaba/TicketApp---BackEnd.git)) | [TicketApp - FrontEnd](https://github.com/gianzaba/TicketApp---FrontEnd.git)
 
