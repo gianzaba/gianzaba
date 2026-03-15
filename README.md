@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 I am a Systems Information Engineering student passionate about technology and the IT industry.
 
-- 📍 **Location:** Based in Rosario, Santa Fe.
+- 📍 **Location:** Based in Rosario, Argentina.
 - 🎓 **Education:** 4th-year student at the National Technological University (UTN FRRO) - Rosario Regional Faculty.
 - 🌍 **Languages:** Native Spanish and English Level B2 Certified.
 - 🤝 **Volunteering:** Active member of Rotaract & Interact - Rotary International for the past 9 years, focusing on community service, teamwork and leadership.
