@@ -43,6 +43,6 @@ I am a Systems Information Engineering student passionate about technology and t
 
 This project was about much more than just learning programming languages; it was an immersive experience in modern software engineering. We focused on using best practices and agile methodologies to enhance our teamwork.
 
-> - [TicketApp - BackEnd](https://github.com/gianzaba/TicketApp---BackEnd.git)) | [TicketApp - FrontEnd](https://github.com/gianzaba/TicketApp---FrontEnd.git)
+> - [TicketApp - Root Repository](https://github.com/gianzaba/TicketApp---Venta-de-entradas.git) | [TicketApp - FrontEnd](https://github.com/gianzaba/TicketApp---FrontEnd.git) | [TicketApp - BackEnd](https://github.com/gianzaba/TicketApp---BackEnd.git)) 
 
 ---
